@@ -1,0 +1,46 @@
+# ============================================================================
+# lab18b daq - Git Ignore Configuration
+# ============================================================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Distribution / PyInstaller build artifacts
+dist/
+build/
+*.egg-info/
+*.egg
+*.manifest
+warn-*.txt
+xref-*.html
+
+# Experiment capture CSV exports (generated dynamically during runs)
+captures/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE and Editor configurations
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Operating System temporary and cache files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Log files
+*.log
