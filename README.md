@@ -227,3 +227,4 @@ fpga_sequence_controller/
 * **Architecture**: Built with Python 3, PySide6, NumPy, `nifpga`, and `nidaqmx`.
 # cold_atom_experiment_sequence
 # cold_atom_experiment_sequence
+# cold_atom_experiment_sequence
