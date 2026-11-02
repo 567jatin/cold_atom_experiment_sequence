@@ -223,7 +223,7 @@ fpga_sequence_controller/
 ## 📜 License & Lab Credits
 
 * **Software**: `lab18b daq`
-* **Laboratory**: Cold Atom & Laser Spectroscopy Lab (Lab 18B), School of Physical Sciences.
+* **Laboratory**: Cold Atom & Laser Spectroscopy Lab (Lab 18B), IIT PATNA.
 * **Architecture**: Built with Python 3, PySide6, NumPy, `nifpga`, and `nidaqmx`.
 # cold_atom_experiment_sequence
 
